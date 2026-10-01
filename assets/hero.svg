@@ -1,76 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Antonio López Raja - Software Quality, Oracle Database, Cybersecurity">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Antonio López Raja - Software Quality, Databases and Networks">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.55" stop-color="#101a2c"/>
-      <stop offset="1" stop-color="#0d1117"/>
+      <stop offset="0" stop-color="#070b12"/>
+      <stop offset="0.5" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#070b12"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#1f6feb"/>
       <stop offset="0.5" stop-color="#2ea043"/>
-      <stop offset="1" stop-color="#00b4d8"/>
+      <stop offset="1" stop-color="#00d4ff"/>
     </linearGradient>
     <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#a9d6ff"/>
+      <stop offset="1" stop-color="#9fd3ff"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.55"/>
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.5"/>
       <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#2ea043" stop-opacity="0.45"/>
+      <stop offset="0" stop-color="#2ea043" stop-opacity="0.4"/>
       <stop offset="1" stop-color="#2ea043" stop-opacity="0"/>
     </radialGradient>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.3" fill="#2b405a" opacity="0.55"/>
+      <circle cx="2" cy="2" r="1.2" fill="#28405c" opacity="0.5"/>
+    </pattern>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#1f6feb" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <pattern id="bin" width="150" height="72" patternUnits="userSpaceOnUse">
+      <text x="6" y="22" font-family="ui-monospace, Consolas, monospace" font-size="14" letter-spacing="5" fill="#2b6cb0">0 1 0 0 1 0 1</text>
+      <text x="20" y="46" font-family="ui-monospace, Consolas, monospace" font-size="14" letter-spacing="5" fill="#2b6cb0">1 0 1 1 0 1 0</text>
+      <text x="4" y="70" font-family="ui-monospace, Consolas, monospace" font-size="14" letter-spacing="5" fill="#2b6cb0">0 0 1 0 1 0 1</text>
     </pattern>
     <style>
-      .fade { opacity: 0; animation: fadeUp 1s ease forwards; }
+      .fade { opacity: 0; animation: fadeUp 0.9s cubic-bezier(.2,.7,.2,1) forwards; }
       .d1 { animation-delay: 0.10s; }
-      .d2 { animation-delay: 0.35s; }
-      .d3 { animation-delay: 0.60s; }
-      .d4 { animation-delay: 0.85s; }
-      .line { transform: scaleX(0); transform-origin: 80px 205px; animation: grow 0.9s ease 0.55s forwards; }
+      .d2 { animation-delay: 0.30s; }
+      .d3 { animation-delay: 0.50s; }
+      .d4 { animation-delay: 0.70s; }
+      .line { transform: scaleX(0); transform-origin: 80px 192px; animation: grow 0.9s ease 0.55s forwards; }
       .cursor { animation: blink 1s steps(1) infinite; }
-      @keyframes fadeUp { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+      .pan { animation: pan 14s linear infinite; }
+      .flow { stroke-dasharray: 18 210; animation: dash 4s linear infinite; }
+      .flow2 { stroke-dasharray: 12 150; animation: dash 3s linear infinite; }
+      .tl { opacity: 0; animation: pop 0.45s ease forwards; }
+      .t1 { animation-delay: 0.55s; }
+      .t2 { animation-delay: 0.75s; }
+      .t3 { animation-delay: 0.95s; }
+      .t4 { animation-delay: 1.15s; }
+      .t5 { animation-delay: 1.35s; }
+      .t6 { animation-delay: 1.55s; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
       @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
       @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes pan { from { transform: translateX(0); } to { transform: translateX(-44px); } }
+      @keyframes dash { to { stroke-dashoffset: -228; } }
+      @keyframes pop { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
     </style>
   </defs>
 
-  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="340" rx="20" fill="url(#dots)"/>
-  <circle cx="1000" cy="70" r="200" fill="url(#glow)"/>
-  <circle cx="150" cy="320" r="170" fill="url(#glow2)"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="20" fill="none" stroke="#1f6feb" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect x="-60" width="1320" height="360" fill="url(#grid)" class="pan" opacity="0.55"/>
+  <rect width="1200" height="360" fill="url(#bin)" opacity="0.30"/>
+  <rect width="1200" height="360" rx="20" fill="url(#dots)" opacity="0.55"/>
+  <circle cx="1010" cy="60" r="220" fill="url(#glow)"/>
+  <circle cx="140" cy="330" r="180" fill="url(#glow2)"/>
 
   <g class="fade d1">
-    <text x="80" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4.5" fill="#2ea043">SOFTWARE QUALITY · DATABASES · SECURITY</text>
+    <text x="80" y="99" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="16" font-weight="600" letter-spacing="3" fill="#2ea043">// SOFTWARE · DATABASES · NETWORKS</text>
   </g>
 
   <g class="fade d2">
-    <text x="78" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="url(#nameGrad)">Antonio López Raja</text>
+    <text x="78" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="url(#nameGrad)">Antonio López Raja</text>
   </g>
 
-  <rect class="line" x="80" y="202" width="440" height="6" rx="3" fill="url(#accent)"/>
+  <rect class="line" x="80" y="190" width="380" height="5" rx="2.5" fill="url(#accent)"/>
 
   <g class="fade d3">
-    <text x="80" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#8b949e">Calidad de Software · Oracle Database · Ciberseguridad</text>
-    <rect class="cursor" x="702" y="232" width="3" height="24" fill="#2ea043"/>
+    <text x="80" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#8b949e">Software Quality · Oracle Database · Cybersecurity</text>
   </g>
 
-  <g class="fade d4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600">
-    <rect x="80" y="272" width="182" height="42" rx="21" fill="#1f6feb" fill-opacity="0.12" stroke="#1f6feb" stroke-opacity="0.55"/>
-    <text x="171" y="298" fill="#9fd3ff" text-anchor="middle">Oracle Database</text>
+  <g class="fade d4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
+    <rect x="80" y="252" width="118" height="32" rx="16" fill="#1f6feb" fill-opacity="0.14" stroke="#1f6feb" stroke-opacity="0.6"/>
+    <text x="139" y="273" fill="#9fd3ff" text-anchor="middle">Oracle DB</text>
 
-    <rect x="276" y="272" width="86" height="42" rx="21" fill="#2ea043" fill-opacity="0.12" stroke="#2ea043" stroke-opacity="0.55"/>
-    <text x="319" y="298" fill="#9be9b1" text-anchor="middle">SQL</text>
+    <rect x="208" y="252" width="96" height="32" rx="16" fill="#2ea043" fill-opacity="0.14" stroke="#2ea043" stroke-opacity="0.6"/>
+    <text x="256" y="273" fill="#9be9b1" text-anchor="middle">PL/SQL</text>
 
-    <rect x="376" y="272" width="80" height="42" rx="21" fill="#f05032" fill-opacity="0.12" stroke="#f05032" stroke-opacity="0.55"/>
-    <text x="416" y="298" fill="#ffb3a1" text-anchor="middle">Git</text>
+    <rect x="314" y="252" width="78" height="32" rx="16" fill="#e76f00" fill-opacity="0.14" stroke="#e76f00" stroke-opacity="0.6"/>
+    <text x="353" y="273" fill="#ffc299" text-anchor="middle">Java</text>
 
-    <rect x="470" y="272" width="196" height="42" rx="21" fill="#00b4d8" fill-opacity="0.12" stroke="#00b4d8" stroke-opacity="0.55"/>
-    <text x="568" y="298" fill="#9fe4f7" text-anchor="middle">GitHub Actions</text>
+    <rect x="402" y="252" width="92" height="32" rx="16" fill="#00b4d8" fill-opacity="0.14" stroke="#00b4d8" stroke-opacity="0.6"/>
+    <text x="448" y="273" fill="#9fe4f7" text-anchor="middle">CCNA</text>
+
+    <rect x="504" y="252" width="158" height="32" rx="16" fill="#f05032" fill-opacity="0.14" stroke="#f05032" stroke-opacity="0.6"/>
+    <text x="583" y="273" fill="#ffb3a1" text-anchor="middle">Git · GitHub Actions</text>
+  </g>
+
+  <g class="fade d3">
+    <rect x="740" y="72" width="398" height="232" rx="14" fill="#0a1020" stroke="#1f6feb" stroke-opacity="0.45"/>
+    <path d="M740 86a14 14 0 0 1 14-14h370a14 14 0 0 1 14 14v20H740z" fill="#111a2b"/>
+    <circle cx="766" cy="89" r="5" fill="#ff5f56"/>
+    <circle cx="786" cy="89" r="5" fill="#ffbd2e"/>
+    <circle cx="806" cy="89" r="5" fill="#27c93f"/>
+    <text x="1114" y="94" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="12" fill="#6e7b91">antoniorep7@ucam: ~</text>
+  </g>
+
+  <g font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="15">
+    <text class="tl t1" x="762" y="130" fill="#7ee787">$ whoami</text>
+    <text class="tl t2" x="762" y="158" fill="#c9d1d9">Antonio López Raja</text>
+    <text class="tl t3" x="762" y="190" fill="#7ee787">$ stack --list</text>
+    <text class="tl t4" x="762" y="218" fill="#c9d1d9">oracle · pl/sql · sql · java · git</text>
+    <text class="tl t5" x="762" y="250" fill="#7ee787">$ certifications</text>
+    <text class="tl t6" x="762" y="278" fill="#c9d1d9">UCAM · Oracle Academy · Cisco</text>
+    <rect class="cursor tl t6" x="1052" y="266" width="8" height="15" fill="#7ee787"/>
+  </g>
+
+  <g stroke="url(#accent)" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.85">
+    <path class="flow" d="M0 338 H240 L280 316 H420"/>
+    <path class="flow2" d="M1200 338 H980 L940 316 H820"/>
+    <path class="flow2" d="M40 20 V70 L70 100"/>
   </g>
 </svg>
