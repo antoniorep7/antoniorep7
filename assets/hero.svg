@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Antonio López Raja - Software Quality, Oracle Database, Cybersecurity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#101a2c"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="0.5" stop-color="#2ea043"/>
+      <stop offset="1" stop-color="#00b4d8"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a9d6ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2ea043" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2ea043" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#2b405a" opacity="0.55"/>
+    </pattern>
+    <style>
+      .fade { opacity: 0; animation: fadeUp 1s ease forwards; }
+      .d1 { animation-delay: 0.10s; }
+      .d2 { animation-delay: 0.35s; }
+      .d3 { animation-delay: 0.60s; }
+      .d4 { animation-delay: 0.85s; }
+      .line { transform: scaleX(0); transform-origin: 80px 205px; animation: grow 0.9s ease 0.55s forwards; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#dots)"/>
+  <circle cx="1000" cy="70" r="200" fill="url(#glow)"/>
+  <circle cx="150" cy="320" r="170" fill="url(#glow2)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="20" fill="none" stroke="#1f6feb" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <g class="fade d1">
+    <text x="80" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4.5" fill="#2ea043">SOFTWARE QUALITY · DATABASES · SECURITY</text>
+  </g>
+
+  <g class="fade d2">
+    <text x="78" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="url(#nameGrad)">Antonio López Raja</text>
+  </g>
+
+  <rect class="line" x="80" y="202" width="440" height="6" rx="3" fill="url(#accent)"/>
+
+  <g class="fade d3">
+    <text x="80" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#8b949e">Calidad de Software · Oracle Database · Ciberseguridad</text>
+    <rect class="cursor" x="702" y="232" width="3" height="24" fill="#2ea043"/>
+  </g>
+
+  <g class="fade d4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600">
+    <rect x="80" y="272" width="182" height="42" rx="21" fill="#1f6feb" fill-opacity="0.12" stroke="#1f6feb" stroke-opacity="0.55"/>
+    <text x="171" y="298" fill="#9fd3ff" text-anchor="middle">Oracle Database</text>
+
+    <rect x="276" y="272" width="86" height="42" rx="21" fill="#2ea043" fill-opacity="0.12" stroke="#2ea043" stroke-opacity="0.55"/>
+    <text x="319" y="298" fill="#9be9b1" text-anchor="middle">SQL</text>
+
+    <rect x="376" y="272" width="80" height="42" rx="21" fill="#f05032" fill-opacity="0.12" stroke="#f05032" stroke-opacity="0.55"/>
+    <text x="416" y="298" fill="#ffb3a1" text-anchor="middle">Git</text>
+
+    <rect x="470" y="272" width="196" height="42" rx="21" fill="#00b4d8" fill-opacity="0.12" stroke="#00b4d8" stroke-opacity="0.55"/>
+    <text x="568" y="298" fill="#9fe4f7" text-anchor="middle">GitHub Actions</text>
+  </g>
+</svg>

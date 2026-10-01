@@ -1,9 +1,6 @@
 <div align="center">
 
-# Antonio López Raja
-
-### Calidad de Software · Bases de Datos Oracle · Ciberseguridad
-### Software Quality · Oracle Databases · Cybersecurity
+<img src="assets/hero.svg" alt="Antonio López Raja — Software Quality · Oracle Database · Cybersecurity" width="100%"/>
 
 [![ES](https://img.shields.io/badge/Español-1f6feb?style=for-the-badge)](#-español)
 [![EN](https://img.shields.io/badge/English-2ea043?style=for-the-badge)](#-english)
