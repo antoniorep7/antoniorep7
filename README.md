@@ -9,6 +9,24 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
+<table>
+<tr>
+<td width="230" align="center"><img src="assets/avatar.svg" width="200" alt="Antonio López Raja"/></td>
+<td>
+<h3>Antonio López Raja</h3>
+<p><b>Software Quality · Oracle Database · Cybersecurity</b></p>
+<p>
+<a href="https://www.linkedin.com/in/antonio-l%C3%B3pez-raja-71b5a9293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/antoniorep7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<img src="assets/stack.svg" alt="Tecnologías · Tech stack" width="100%"/>
+
 ## 🇪🇸 Español
 
 ### Sobre mí
@@ -24,8 +42,6 @@ Me interesa construir software verificable, medible y mantenible.
 - 🧩 **Diseño de software** — SOLID, patrones y métricas de flujo.
 
 ### Tecnologías
-
-<img src="assets/stack.svg" alt="Tecnologías" width="100%"/>
 
 **Bases de datos**
 
@@ -76,11 +92,6 @@ Me interesa construir software verificable, medible y mantenible.
 | [`oracle-database-lab`](https://github.com/antoniorep7/oracle-database-lab) | Administración de bases de datos Oracle: scripts, playbooks y runbooks. | Oracle · SQL |
 | [`reportaudit-lab`](https://github.com/antoniorep7/reportaudit-lab) | Laboratorio de Calidad de Software: SAST, SCA y SBOM. | Python · Flask |
 
-### Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-l%C3%B3pez-raja-71b5a9293/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniorep7)
-
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🇬🇧 English
@@ -98,8 +109,6 @@ verifiable, measurable and maintainable software.
 - 🧩 **Software design** — SOLID, patterns and flow metrics.
 
 ### Tech stack
-
-<img src="assets/stack.svg" alt="Tech stack" width="100%"/>
 
 **Databases**
 
@@ -149,10 +158,5 @@ verifiable, measurable and maintainable software.
 |---|---|---|
 | [`oracle-database-lab`](https://github.com/antoniorep7/oracle-database-lab) | Oracle database administration: scripts, playbooks and runbooks. | Oracle · SQL |
 | [`reportaudit-lab`](https://github.com/antoniorep7/reportaudit-lab) | Software Quality lab: SAST, SCA and SBOM. | Python · Flask |
-
-### Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-l%C3%B3pez-raja-71b5a9293/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniorep7)
 
 <img src="assets/footer.svg" alt="Gracias por visitar mi perfil · Thanks for stopping by" width="100%"/>
