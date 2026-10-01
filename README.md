@@ -13,14 +13,15 @@
 
 ### Sobre mí
 
-Hola, soy **Antonio López Raja**. Me enfoco en la **calidad de software** y la
+Soy **Antonio López Raja**. Trabajo en la **calidad del software** y la
 **administración de bases de datos**, aplicando buenas prácticas de **seguridad**
-(SAST, SCA, SBOM) y **control de versiones** con Git. Me interesa construir software
-verificable, medible y mantenible.
+(SAST, SCA, SBOM) y un uso disciplinado del **control de versiones** con Git.
+Me interesa construir software verificable, medible y mantenible.
 
-- 🔭 Trabajando en laboratorios de auditoría de calidad y bases de datos Oracle.
-- 🌱 Aprendiendo sobre análisis estructural (SOLID, patrones de diseño) y métricas de flujo.
-- 🎯 Objetivo: código limpio, seguro y con trazabilidad desde el repositorio.
+- 🛡️ **Calidad y seguridad** — análisis estático (SAST), dependencias (SCA) y SBOM.
+- 🗄️ **Bases de datos** — administración y SQL sobre Oracle.
+- 🔧 **Git y automatización** — flujos de trabajo y GitHub Actions.
+- 🧩 **Diseño de software** — SOLID, patrones y métricas de flujo.
 
 ### Tecnologías
 
@@ -36,10 +37,10 @@ verificable, medible y mantenible.
 
 ### Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| [`oracle-database-lab`](https://github.com/antoniorep7/oracle-database-lab) | Administración de bases de datos Oracle: scripts, playbooks y runbooks. |
-| [`reportaudit-lab`](https://github.com/antoniorep7/reportaudit-lab) | Repositorio de laboratorio de Calidad de Software: SAST, SCA y SBOM. |
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [`oracle-database-lab`](https://github.com/antoniorep7/oracle-database-lab) | Administración de bases de datos Oracle: scripts, playbooks y runbooks. | Oracle · SQL |
+| [`reportaudit-lab`](https://github.com/antoniorep7/reportaudit-lab) | Laboratorio de Calidad de Software: SAST, SCA y SBOM. | Python · Flask |
 
 ### Contacto
 
@@ -54,14 +55,15 @@ verificable, medible y mantenible.
 
 ### About me
 
-Hi, I'm **Antonio López Raja**. I focus on **software quality** and **database
+I'm **Antonio López Raja**. I work on **software quality** and **database
 administration**, applying solid **security** practices (SAST, SCA, SBOM) and
-**version control** with Git. I'm passionate about building verifiable, measurable
-and maintainable software.
+disciplined **version control** with Git. I'm passionate about building
+verifiable, measurable and maintainable software.
 
-- 🔭 Working on software-quality audit and Oracle database labs.
-- 🌱 Learning structural analysis (SOLID, design patterns) and flow metrics.
-- 🎯 Goal: clean, secure code with full traceability from the repository.
+- 🛡️ **Quality & security** — static analysis (SAST), dependencies (SCA) and SBOM.
+- 🗄️ **Databases** — administration and SQL on Oracle.
+- 🔧 **Git & automation** — workflows and GitHub Actions.
+- 🧩 **Software design** — SOLID, patterns and flow metrics.
 
 ### Tech stack
 
@@ -77,10 +79,10 @@ and maintainable software.
 
 ### Featured projects
 
-| Project | Description |
-|---|---|
-| [`oracle-database-lab`](https://github.com/antoniorep7/oracle-database-lab) | Oracle database administration: scripts, playbooks and runbooks. |
-| [`reportaudit-lab`](https://github.com/antoniorep7/reportaudit-lab) | Software Quality lab repository: SAST, SCA and SBOM. |
+| Project | Description | Technologies |
+|---|---|---|
+| [`oracle-database-lab`](https://github.com/antoniorep7/oracle-database-lab) | Oracle database administration: scripts, playbooks and runbooks. | Oracle · SQL |
+| [`reportaudit-lab`](https://github.com/antoniorep7/reportaudit-lab) | Software Quality lab: SAST, SCA and SBOM. | Python · Flask |
 
 ### Contact
 
