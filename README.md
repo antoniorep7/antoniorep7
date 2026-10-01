@@ -35,6 +35,24 @@ Me interesa construir software verificable, medible y mantenible.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+### Certificaciones
+
+**Oracle Academy · Student Campus**
+
+| Certificación | Duración | Fecha |
+|---|---:|---|
+| Oracle Database: Conceptos fundamentales de SQL I | 25 h | 10/03/2025 |
+| Oracle Database: Conceptos fundamentales de PL/SQL | 25 h | 24/11/2025 |
+| Oracle Database: Desarrollo de Unidades de Programa en PL/SQL | 25 h | 24/11/2025 |
+| Oracle Data Modeling and Relational Database Design | 25 h | 18/11/2025 |
+| Oracle Certified Associate, Java SE 7 Programmer | 25 h | 24/11/2025 |
+
+**Cisco Networking Academy**
+
+| Certificación | Duración | Fecha |
+|---|---:|---|
+| CCNAv7: Introducción a Redes (ITN) | 70 h | 25/11/2025 |
+
 ### Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
@@ -76,6 +94,24 @@ verifiable, measurable and maintainable software.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Certifications
+
+**Oracle Academy · Student Campus**
+
+| Certification | Duration | Date |
+|---|---:|---|
+| Oracle Database: SQL Fundamentals I | 25 h | 10/03/2025 |
+| Oracle Database: PL/SQL Fundamentals | 25 h | 24/11/2025 |
+| Oracle Database: Develop Program Units with PL/SQL | 25 h | 24/11/2025 |
+| Oracle Data Modeling and Relational Database Design | 25 h | 18/11/2025 |
+| Oracle Certified Associate, Java SE 7 Programmer | 25 h | 24/11/2025 |
+
+**Cisco Networking Academy**
+
+| Certification | Duration | Date |
+|---|---:|---|
+| CCNAv7: Introduction to Networks (ITN) | 70 h | 25/11/2025 |
 
 ### Featured projects
 
