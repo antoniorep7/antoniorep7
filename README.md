@@ -7,7 +7,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🇪🇸 Español
 
@@ -25,19 +25,33 @@ Me interesa construir software verificable, medible y mantenible.
 
 ### Tecnologías
 
+<img src="assets/stack.svg" alt="Tecnologías" width="100%"/>
+
 **Bases de datos**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Control de versiones y automatización**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+**Redes**
+
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 ### Certificaciones
 
 **Oracle Academy · Student Campus**
+
+![Oracle Academy](https://img.shields.io/badge/Oracle_Academy-Student_Campus-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 | Certificación | Duración | Fecha |
 |---|---:|---|
@@ -48,6 +62,8 @@ Me interesa construir software verificable, medible y mantenible.
 | Oracle Certified Associate, Java SE 7 Programmer | 25 h | 24/11/2025 |
 
 **Cisco Networking Academy**
+
+![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 | Certificación | Duración | Fecha |
 |---|---:|---|
@@ -65,9 +81,7 @@ Me interesa construir software verificable, medible y mantenible.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-l%C3%B3pez-raja-71b5a9293/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniorep7)
 
-<br>
-
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🇬🇧 English
 
@@ -85,19 +99,33 @@ verifiable, measurable and maintainable software.
 
 ### Tech stack
 
+<img src="assets/stack.svg" alt="Tech stack" width="100%"/>
+
 **Databases**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Version control & automation**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+**Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 ### Certifications
 
 **Oracle Academy · Student Campus**
+
+![Oracle Academy](https://img.shields.io/badge/Oracle_Academy-Student_Campus-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 | Certification | Duration | Date |
 |---|---:|---|
@@ -108,6 +136,8 @@ verifiable, measurable and maintainable software.
 | Oracle Certified Associate, Java SE 7 Programmer | 25 h | 24/11/2025 |
 
 **Cisco Networking Academy**
+
+![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 | Certification | Duration | Date |
 |---|---:|---|
@@ -125,8 +155,4 @@ verifiable, measurable and maintainable software.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-l%C3%B3pez-raja-71b5a9293/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniorep7)
 
-<div align="center">
-
-<sub>Gracias por visitar mi perfil · Thanks for stopping by</sub>
-
-</div>
+<img src="assets/footer.svg" alt="Gracias por visitar mi perfil · Thanks for stopping by" width="100%"/>
